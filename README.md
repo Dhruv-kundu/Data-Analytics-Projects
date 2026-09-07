@@ -6,10 +6,10 @@ A collection of exploratory data analysis (EDA) projects, each in its own folder
 
 | Project | Description | Notebook |
 |---|---|---|
-| [Airbnb Hotel Booking Analysis](./airbnb-hotel-booking-analysis) | Cleans and explores Airbnb listings data; answers 9 research questions on pricing, neighborhoods, hosts, and reviews. | `Airbnb_Hotel_Booking_Analysis.ipynb` |
-| [Employee Attrition Analysis](./attrition-analysis) | Investigates why employees leave an organization across gender, education, age, salary, tenure, and department. | `Attrition_Analysis_DA.ipynb` |
-| [CarDekho Used Car Analysis](./cardekho-used-car-analysis) | Explores a used-car marketplace dataset — best-selling brands/models, pricing, mileage, and age trends. | `Project_CarDekho.ipynb` |
-| [Crop Recommendation Analysis](./crop-recommendation-analysis) | EDA on soil nutrients, pH, temperature, and humidity across different recommended crops. | `Crop_recommendation.ipynb` |
+| [Airbnb Hotel Booking Analysis](./Airbnb-project) | Cleans and explores Airbnb listings data; answers 9 research questions on pricing, neighborhoods, hosts, and reviews. | `Airbnb_Hotel_Booking_Analysis.ipynb` |
+| [Employee Attrition Analysis](./Attrition-Analytics) | Investigates why employees leave an organization across gender, education, age, salary, tenure, and department. | `Attrition_Analysis_DA.ipynb` |
+| [CarDekho Used Car Analysis](./Car-Market-Trend-Analysis) | Explores a used-car marketplace dataset — best-selling brands/models, pricing, mileage, and age trends. | `Project_CarDekho.ipynb` |
+| [Crop Recommendation Analysis](./Crop-Recommendation) | EDA on soil nutrients, pH, temperature, and humidity across different recommended crops. | `Crop_recommendation.ipynb` |
 
 ## Repo Structure
 ```
