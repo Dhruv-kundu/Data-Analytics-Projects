@@ -6,7 +6,7 @@ A collection of exploratory data analysis (EDA) projects, each in its own folder
 
 | Project | Description | Notebook |
 |---|---|---|
-| [Airbnb Hotel Booking Analysis](./Airbnb-project) | Cleans and explores Airbnb listings data; answers 9 research questions on pricing, neighborhoods, hosts, and reviews. | `Airbnb_Hotel_Booking_Analysis.ipynb` |
+| [Airbnb Hotel Booking Analysis](./tree/main/Airbnb%20project) | Cleans and explores Airbnb listings data; answers 9 research questions on pricing, neighborhoods, hosts, and reviews. | `Airbnb_Hotel_Booking_Analysis.ipynb` |
 | [Employee Attrition Analysis](./Attrition-Analytics) | Investigates why employees leave an organization across gender, education, age, salary, tenure, and department. | `Attrition_Analysis_DA.ipynb` |
 | [CarDekho Used Car Analysis](./Car-Market-Trend-Analysis) | Explores a used-car marketplace dataset — best-selling brands/models, pricing, mileage, and age trends. | `Project_CarDekho.ipynb` |
 | [Crop Recommendation Analysis](./Crop-Recommendation) | EDA on soil nutrients, pH, temperature, and humidity across different recommended crops. | `Crop_recommendation.ipynb` |
@@ -35,9 +35,6 @@ data-analysis-projects/
 
 ## Tech Stack
 Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
-
-## Note on Data
-Raw CSV files are not included in this repo (to keep it lightweight). Each project README lists the expected dataset filename — download it and place it in the corresponding project folder before running the notebook.
 
 ## How to Use
 1. Clone/download this repo.
